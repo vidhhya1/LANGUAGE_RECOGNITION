@@ -1,6 +1,6 @@
 # Bitcoin Scripting Assignment
 
-### Assignment 3: Bitcoin Scripting    
+## Team Name : CryptoKnights 
 
 ## Team Members:
 
